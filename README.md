@@ -2,7 +2,7 @@
  I am a Computer Science & Engineering (CSE) student with a strong passion for technology, software development, and quality assurance.  <br> I am actively learning Software Quality Assurance (SQA), including Manual Testing and Automation Testing .<br>
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanholy3@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjila-a-khanam-1646b7268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanholy3@gmail.com) 
 
 # 💻 Tech Stack:
 ### Programming Languages
